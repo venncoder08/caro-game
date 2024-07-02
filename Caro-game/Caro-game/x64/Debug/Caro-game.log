@@ -1,7 +1,0 @@
-﻿  soure.cpp
-D:\Mini-project\Caro-game\Caro-game\soure.cpp(35,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-D:\Mini-project\Caro-game\Caro-game\soure.cpp(67,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Mini-project\Caro-game\Caro-game\soure.cpp(93,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Mini-project\Caro-game\Caro-game\soure.cpp(142,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Mini-project\Caro-game\Caro-game\soure.cpp(186,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Caro-game.vcxproj -> D:\Mini-project\Caro-game\x64\Debug\Caro-game.exe
