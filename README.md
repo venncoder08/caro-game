@@ -8,9 +8,9 @@ version 0.1:
 - It is quite rudimentary, and there will be more optimized updates in the future.
 
 version 0.2:
-- Update the interface
-- Improve the navigation system
-- Reorganize the files logically
+- Update the interface.
+- Improve the navigation system.
+- Reorganize the files logically.
 
 I hope everyone warmly receives it and gives me 1 star :) | Game made by Khánh Vinh.
 
