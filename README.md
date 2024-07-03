@@ -9,7 +9,7 @@ version 0.1:
 
 version 0.2:
 - Update the interface.
-- Improve the navigation system.
+- Improvements in movement.
 - Reorganize the files logically.
 
 version 0.3:
