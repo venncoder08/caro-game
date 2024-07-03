@@ -1,0 +1,10 @@
+﻿  designs.cpp
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(23,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(49,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(98,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(142,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(309,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(311,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(348,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Mini-project\Caro-game\Caro-game\designs.cpp(350,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Caro-game.vcxproj -> D:\Mini-project\Caro-game\x64\Debug\Caro-game.exe
